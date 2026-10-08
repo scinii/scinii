@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Roberto!
+
+I am a PhD student in Operations Research at KU Leuven and Ghent University.
 
 <!--
 **scinii/scinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
